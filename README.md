@@ -1,5 +1,5 @@
-<h1 align="center">💥 Hi, I'm Vegito! 💥</h1>
-<h3 align="center">A Fusion of Web3, Full Stack & Pure Saiyan Energy! ⚡</h3>
+<h1 align="center">Hi, I'm Vegito</h1>
+<h3 align="center">A Fusion of Web3, Full Stack & Pure Saiyan Energy!</h3>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -11,13 +11,6 @@
   <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="500" alt="Coding Animation" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sunilkumarchavhan9&label=🔥 Views&color=red&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sunilkumarchavhan9&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
 
 ---
 

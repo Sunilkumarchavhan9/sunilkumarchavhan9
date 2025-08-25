@@ -1,6 +1,16 @@
 <h1 align="center">💥 Hi, I'm Vegito! 💥</h1>
 <h3 align="center">A Fusion of Web3, Full Stack & Pure Saiyan Energy! ⚡</h3>
 
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=console.log('Hello+World!');print('Saiyan+Power+Level+9000+⚡');echo+'Web3+%7C+Fullstack+%7C+Open+Source';" alt="Typing Animation" />
+</p>
+
+<!-- Coding GIF -->
+<p align="center">
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="500" alt="Coding Animation" />
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sunilkumarchavhan9&label=🔥 Views&color=red&style=flat" alt="Profile Views" />
 </p>
@@ -9,21 +19,15 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sunilkumarchavhan9&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/frostbythitsug" target="blank">
-    <img src="https://img.shields.io/twitter/follow/frostbythitsug?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
-
 ---
 
 ## 🛠 **Who am I?**
-- 🔥 **Full Stack Developer | Web3 Enthusiast | Open Source Contributor**  
-- 🌱 Currently mastering **React, Next.js, and Smart Contracts**  
-- ⚡ **Anime Fanatic | Gamer | Fusion Dance Expert** 💃  
-- 🏆 **LeetCode Warrior:** [Check My Stats](https://leetcode.com/soulreaper_sk)  
-- 💬 Let's talk about **Tech, Crypto, and the DBZ Universe!**  
-- 📫 Contact me at **chavhansunilkumar753@gmail.com**  
+- 🔥 **Full Stack Developer | Web3 Enthusiast | GitHub Campus Expert (2025 Cohort)**  
+- 🌱 Currently mastering **React, Next.js, Solana & Smart Contracts**  
+- 🏆 **Achievements:** Solana Hackathon Finalist  
+- 📊 Skilled in **System Design, CI/CD, Docker, GitHub Actions, Web3**  
+- 💬 Ask me about **Tech, Crypto & the DBZ Universe**  
+- 📫 **chavhansunilkumar753@gmail.com**
 
 ---
 
@@ -65,21 +69,38 @@
 
 ## 💻 **Tech Stack: My Saiyan Arsenal**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,react,nextjs,nodejs,express,mongodb,mysql,git,linux,solidity,docker,python,figma,tailwind,graphql,typescript" />
+  <img src="https://skillicons.dev/icons?i=cpp,ts,js,react,nextjs,nodejs,express,postgresql,mongodb,mysql,docker,aws,git,linux,solidity,tailwind,graphql,python,figma" />
 </p>
 
 ---
 
-## 🚀 **Social Links**
-📍 **Find Me Here:**  
+## 🚀 **Featured Projects**
+- 🛡 **Decentralized Tournament Tracker** – Anti-cheat innovation with Solana, reducing cheating by **70%**  
+- 🧠 **Brainly App** – Hybrid Notion + Trello powered by GPT, improving productivity by **30%**  
+- 🎨 **V(0)Draw** – Real-time collaborative drawing, latency reduced by **40%**  
+- 📘 **Doc Start** – Notion-powered docs platform with **live collaboration**  
+
+---
+
+## 🌐 **Find Me Here**
 <p align="center">
   <a href="https://twitter.com/frostbythitsug"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://github.com/sunilkumarchavhan9"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://leetcode.com/soulreaper_sk"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/sunil-kumar-chavhan-269195299"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://v0dev9.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
 
-## ⚡ **"I am the fusion of Kakarot and Vegeta. I AM VEGITO!"** ⚡
+<!-- Matrix Code Animation -->
+<p align="center">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp" width="500" alt="Matrix Code Animation" />
+</p>
+
+<h3 align="center">⚡ "I am the fusion of Kakarot and Vegeta. I AM VEGITO!" ⚡</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250" />
+</p>
+
 

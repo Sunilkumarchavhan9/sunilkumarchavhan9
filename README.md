@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Vegito</h1>
-<h3 align="center">A Fusion of Web3, Full Stack & Pure Saiyan Energy!</h3>
+
+<h3 align="center">A Fusion of Web3, Full Stack</h3>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -89,11 +89,6 @@
 <!-- Matrix Code Animation -->
 <p align="center">
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp" width="500" alt="Matrix Code Animation" />
-</p>
-
-<h3 align="center">⚡ "I am the fusion of Kakarot and Vegeta. I AM VEGITO!" ⚡</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250" />
 </p>
 
 

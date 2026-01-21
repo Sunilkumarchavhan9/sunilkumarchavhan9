@@ -1,94 +1,112 @@
 
-<h3 align="center">A Fusion of Web3, Full Stack</h3>
+<h2 align="center">A Fusion of Web2 × Web3 Engineering</h2>
+<p align="center"><i>building fast. scaling hard. shipping real systems.</i></p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=console.log('Hello+World!');print('Saiyan+Power+Level+9000+⚡');echo+'Web3+%7C+Fullstack+%7C+Open+Source';" alt="Typing Animation" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=console.log('Hello+World');Web2+%E2%9C%95+Web3+Engineer;Full+Stack+%7C+Blockchain+%7C+Open+Source;Power+Level+Over+9000+%E2%9A%A1"
+    alt="Typing Animation"
+  />
 </p>
 
-<!-- Coding GIF -->
+<!-- Hero GIF -->
 <p align="center">
-  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="500" alt="Coding Animation" />
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="480" />
 </p>
 
+---
+
+## 🧠 Who Am I
+
+- Full-Stack & Blockchain Engineer  
+- GitHub Campus Expert — **Summer 2025 Cohort**  
+- 5× Hackathon Winner • **Top 4 Solana Hackathon Finalist**  
+- Selected **72 / 3000+ Fellows**  
+- Focused on **scalable systems, real-time infrastructure, and on-chain security**
+
+I work end-to-end across **TypeScript, Next.js, Node.js, and cloud-native infrastructure**,  
+and build **secure decentralized systems** using **Solana, Rust, and Solidity**.
+
+I thrive at the intersection of **Web2 × Web3** — where microservices, real-time systems, and decentralized architectures meet.
+
+📫 **chavhansunilkumar753@gmail.com**
 
 ---
 
-## 🛠 **Who am I?**
-- 🔥 **Full Stack Developer | Web3 Enthusiast | GitHub Campus Expert (2025 Cohort)**  
-- 🌱 Currently mastering **React, Next.js, Solana & Smart Contracts**  
-- 🏆 **Achievements:** Solana Hackathon Finalist  
-- 📊 Skilled in **System Design, CI/CD, Docker, GitHub Actions, Web3**  
-- 💬 Ask me about **Tech, Crypto & the DBZ Universe**  
-- 📫 **chavhansunilkumar753@gmail.com**
+## ⚙️ Current Focus
+
+- high-performance full-stack systems  
+- real-time applications with websockets  
+- smart contracts & decentralized security  
+- system design, ci/cd, and cloud infrastructure  
 
 ---
 
-## ⚡ **Live Coding Streak**
+## ⚡ Live Coding Activity
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunilkumarchavhan9&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunilkumarchavhan9&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
-## ⏳ **My Coding Activity (Last 7 Days)**
+## ⏳ Last 7 Days — Deep Work
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=179e95db-049a-4878-9f18-d078338815fc&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=179e95db-049a-4878-9f18-d078338815fc&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🏆 **LeetCode Progress**
+## 🏆 Competitive Programming
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/soulreaper_sk?theme=dark&font=Source%20Code%20Pro" />
 </p>
 
 ---
 
-## 🔥 **Power Level: GitHub Stats**
+## 🔥 GitHub Power Level
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunilkumarchavhan9&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sunilkumarchavhan9&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunilkumarchavhan9&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunilkumarchavhan9&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilkumarchavhan9&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 💻 **Tech Stack: My Saiyan Arsenal**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,ts,js,react,nextjs,nodejs,express,postgresql,mongodb,mysql,docker,aws,git,linux,solidity,tailwind,graphql,python,figma" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilkumarchavhan9&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🚀 **Featured Projects**
-- 🛡 **Decentralized Tournament Tracker** – Anti-cheat innovation with Solana, reducing cheating by **70%**  
-- 🧠 **Brainly App** – Hybrid Notion + Trello powered by GPT, improving productivity by **30%**  
-- 🎨 **V(0)Draw** – Real-time collaborative drawing, latency reduced by **40%**  
-- 📘 **Doc Start** – Notion-powered docs platform with **live collaboration**  
+## 🛠 Tech Stack — Saiyan Arsenal
 
----
-
-## 🌐 **Find Me Here**
 <p align="center">
-  <a href="https://twitter.com/frostbythitsug"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://github.com/sunilkumarchavhan9"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://leetcode.com/soulreaper_sk"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-  <a href="https://www.linkedin.com/in/sunil-kumar-chavhan-269195299"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://v0dev9.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <img src="https://skillicons.dev/icons?i=ts,js,cpp,react,nextjs,nodejs,express,postgres,mongodb,mysql,docker,kubernetes,aws,git,linux,solidity,tailwind,graphql,python,figma" />
 </p>
 
 ---
 
-<!-- Matrix Code Animation -->
+## 🌐 Connect With Me
+
 <p align="center">
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp" width="500" alt="Matrix Code Animation" />
+  <a href="https://twitter.com/frostbythitsug"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://github.com/sunilkumarchavhan9"><img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/soulreaper_sk"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sunil-kumar-chavhan-269195299"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://v0dev9.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp" width="480" />
+</p>
+
+<p align="center"><i>build quietly. ship consistently. evolve relentlessly.</i></p>
 
 

@@ -1,5 +1,5 @@
 
-<h2 align="center">A Fusion of Web2 × Web3 _ Applied AI Engineering</h2>
+<h2 align="center">A Fusion of Web2 × Web3 + Applied AI Engineering</h2>
 <p align="center"><i>building fast. scaling hard. shipping real systems.</i></p>
 
 <!-- Typing Animation -->

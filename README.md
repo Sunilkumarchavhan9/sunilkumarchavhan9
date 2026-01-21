@@ -1,5 +1,5 @@
 
-<h2 align="center">A Fusion of Web2 × Web3 Engineering</h2>
+<h2 align="center">A Fusion of Web2 × Web3 _ Applied AI Engineering</h2>
 <p align="center"><i>building fast. scaling hard. shipping real systems.</i></p>
 
 <!-- Typing Animation -->
@@ -98,7 +98,7 @@ I thrive at the intersection of **Web2 × Web3** — where microservices, real-t
   <a href="https://github.com/sunilkumarchavhan9"><img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://leetcode.com/soulreaper_sk"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sunil-kumar-chavhan-269195299"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://v0dev9.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://p0lymathdevppf.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---

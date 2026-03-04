@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Building reliable web + real-time systems and on-chain products.</b><br/>
-  
+  <b>Building reliable web + real-time systems and on-chain products.</b>
 </p>
 
 <p align="center">
@@ -28,15 +27,15 @@
 
 ---
 
-## 👋 About
-- Full-Stack Engineer with hands-on experience in **web, backend, and real-time infrastructure**
-- Strong in **TypeScript, Next.js, Node.js, PostgreSQL**
-- Built systems with **WebSockets**, performance tuning, and **observability (Prometheus/Grafana/ELK)**  
-- Web3 focus: **Solana**, on-chain settlement, Anchor (familiar)
+## About
+- Full Stack Engineer with hands on experience in web backend and real time infrastructure
+- Strong in TypeScript Next.js Node.js PostgreSQL
+- Built systems with WebSockets performance tuning and observability Prometheus Grafana ELK
+- Web3 focus Solana on chain settlement Anchor familiar
 
 ---
 
-## 🧰 Skills & Tools
+## Skills and Tools
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-0ea5e9?style=for-the-badge&logo=typescript&logoColor=white)
@@ -52,7 +51,7 @@
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-111827?style=for-the-badge&logo=vercel&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/Radix%20UI-111827?style=for-the-badge&logo=radix-ui&logoColor=white)
 
-### Backend + Data
+### Backend and Data
 ![Node.js](https://img.shields.io/badge/Node.js-16a34a?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-0f766e?style=for-the-badge&logo=socket.io&logoColor=white)
@@ -61,7 +60,7 @@
 ![Prisma](https://img.shields.io/badge/Prisma-111827?style=for-the-badge&logo=prisma&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle-111827?style=for-the-badge&logo=drizzle&logoColor=white)
 
-### Cloud + DevOps + Observability
+### Cloud DevOps Observability
 ![Docker](https://img.shields.io/badge/Docker-0ea5e9?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-2563eb?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-f59e0b?style=for-the-badge&logo=amazonaws&logoColor=111827)
@@ -70,39 +69,44 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-f97316?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-f59e0b?style=for-the-badge&logo=grafana&logoColor=111827)
 
-### Web3 + AI Tooling
+### Web3 and AI
 ![Solana](https://img.shields.io/badge/Solana-111827?style=for-the-badge&logo=solana&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-374151?style=for-the-badge&logo=solidity&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-111827?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
-## 🚀 Highlight Projects
-- **20.Poly** — live sports prediction market with real-time pricing + on-chain settlement  
-- **V(0)Draw** — real-time collaborative drawing platform  
-- **Kandid** — real-time collaboration features at scale  
-- **Kube Credential** — credential issuance & verification workflows  
-- **Link Bird** — automated LinkedIn outreach platform
+## Highlight Projects
+20 Poly — live sports prediction market with real time pricing and on chain settlement  
+V0Draw — real time collaborative drawing platform  
+Kandid — collaboration infrastructure features  
+Kube Credential — credential verification workflow system  
+Link Bird — automated LinkedIn outreach platform
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sunilkumarchavhan9&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunilkumarchavhan9&layout=compact" />
-</p>
+## GitHub Activity
+
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sunilkumarchavhan9" />
+  <img src="https://ghchart.rshah.org/Sunilkumarchavhan9" />
 </p>
 
 ---
 
-## 🤝 Reach me
-- Email: **chavhansunilkumar753@gmail.com**
-- LinkedIn: **sunil-kumar-chavhan-269195299**
-- X: **@FrostbytHitsuG**
+## Reach
+
+Email  
+chavhansunilkumar753@gmail.com
+
+LinkedIn  
+sunil-kumar-chavhan-269195299
+
+X  
+@FrostbytHitsuG
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sunilkumarchavhan9&style=flat-square&color=22c55e" />
 </p>
+
+

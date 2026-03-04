@@ -74,14 +74,6 @@
 ![Solidity](https://img.shields.io/badge/Solidity-374151?style=for-the-badge&logo=solidity&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-111827?style=for-the-badge&logo=openai&logoColor=white)
 
----
-
-## Highlight Projects
-20 Poly — live sports prediction market with real time pricing and on chain settlement  
-V0Draw — real time collaborative drawing platform  
-Kandid — collaboration infrastructure features  
-Kube Credential — credential verification workflow system  
-Link Bird — automated LinkedIn outreach platform
 
 ---
 

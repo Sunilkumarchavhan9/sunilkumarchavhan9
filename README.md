@@ -91,12 +91,6 @@
 Email  
 chavhansunilkumar753@gmail.com
 
-LinkedIn  
-sunil-kumar-chavhan-269195299
-
-X  
-@FrostbytHitsuG
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sunilkumarchavhan9&style=flat-square&color=22c55e" />
 </p>

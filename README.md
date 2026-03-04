@@ -1,156 +1,108 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,40:0f766e,100:f59e0b&text=Sunil%20Kumar%20Chavhan&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Blockchain%20Builder%20%7C%20Applied%20AI&descAlignY=58&descSize=18&animation=fadeIn" alt="Header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,40:0f766e,100:f59e0b&text=Sunil%20Kumar%20Chavhan&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Blockchain%20Builder%20%7C%20Applied%20AI&descAlignY=58&descSize=18&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <strong>Building scalable web systems, secure on-chain products, and practical AI-powered engineering workflows.</strong>
+  <b>Building reliable web + real-time systems and on-chain products.</b><br/>
+  
 </p>
 
 <p align="center">
-  <a href="https://github.com/sunilkumarchavhan9">
-    <img src="https://img.shields.io/badge/GitHub-sunilkumarchavhan9-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/sunil-kumar-chavhan-269195299" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/sunil-kumar-chavhan-269195299">
-    <img src="https://img.shields.io/badge/LinkedIn-Sunil%20Kumar%20Chavhan-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://github.com/Sunilkumarchavhan9" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:chavhansunilkumar753@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Build%20Together-e11d48?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://x.com/FrostbytHitsuG" target="_blank">
+    <img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://p0lymathdevppf.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live%20Projects-0f766e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="mailto:chavhansunilkumar753@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-f97316?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sunilkumarchavhan9&style=flat-square&color=0f766e" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Web2%20x%20Web3-Production%20Focused-1f2937?style=flat-square" alt="Web2 x Web3" />
-  <img src="https://img.shields.io/badge/Focus-Real-Time%20Systems-0f766e?style=flat-square" alt="Real-time systems" />
-  <img src="https://img.shields.io/badge/Focus-On-Chain%20Security-f59e0b?style=flat-square" alt="On-chain security" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=700&color=22C55E&center=true&vCenter=true&width=900&lines=TypeScript+%2F+Next.js+%2F+Node.js+%2F+Postgres;WebSockets+%2B+Real-time+systems;Solana+%2F+On-chain+settlement;Observability+%2F+Performance+tuning;Rust+%28learning%29" />
 </p>
 
 ---
 
-## Who I Am
-
-```txt
-Role        : Full-Stack and Blockchain Engineer
-Stack       : TypeScript, Next.js, Node.js, Solana, Rust, Solidity
-Strength    : System design, real-time architecture, secure smart contracts
-Approach    : Build fast, ship clean, scale with discipline
-Mission     : Deliver production-ready systems that survive real usage
-```
-
-I work where backend performance, product execution, and decentralized infrastructure intersect. The focus is not just shipping features, but building systems that stay reliable under load, evolve cleanly, and make sense in production.
+## 👋 About
+- Full-Stack Engineer with hands-on experience in **web, backend, and real-time infrastructure**
+- Strong in **TypeScript, Next.js, Node.js, PostgreSQL**
+- Built systems with **WebSockets**, performance tuning, and **observability (Prometheus/Grafana/ELK)**  
+- Web3 focus: **Solana**, on-chain settlement, Anchor (familiar)
 
 ---
 
-## What I Bring
+## 🧰 Skills & Tools
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Engineering</strong>
-      <ul>
-        <li>High-performance full-stack applications</li>
-        <li>Event-driven and WebSocket-based platforms</li>
-        <li>Backend services with clean, scalable architecture</li>
-        <li>Cloud-native delivery and CI/CD workflows</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <strong>Web3</strong>
-      <ul>
-        <li>Security-first smart contract development</li>
-        <li>Protocol and dApp infrastructure design</li>
-        <li>On-chain logic for Solana and Solidity ecosystems</li>
-        <li>Pragmatic decentralized system building</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-0ea5e9?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f59e0b?style=for-the-badge&logo=javascript&logoColor=111827)
+![C++](https://img.shields.io/badge/C%2B%2B-2563eb?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/Go-06b6d4?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-f97316?style=for-the-badge&logo=rust&logoColor=white)
 
----
+### Frontend
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-0ea5e9?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-111827?style=for-the-badge&logo=vercel&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix%20UI-111827?style=for-the-badge&logo=radix-ui&logoColor=white)
 
-## Proof of Work
+### Backend + Data
+![Node.js](https://img.shields.io/badge/Node.js-16a34a?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-0f766e?style=for-the-badge&logo=socket.io&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2563eb?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-16a34a?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-111827?style=for-the-badge&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-111827?style=for-the-badge&logo=drizzle&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Campus%20Expert-Summer%202025-2563eb?style=for-the-badge" alt="Campus Expert" />
-  <img src="https://img.shields.io/badge/Hackathon%20Winner-5x-16a34a?style=for-the-badge" alt="Hackathon Winner" />
-</p>
+### Cloud + DevOps + Observability
+![Docker](https://img.shields.io/badge/Docker-0ea5e9?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-2563eb?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-f59e0b?style=for-the-badge&logo=amazonaws&logoColor=111827)
+![Nginx](https://img.shields.io/badge/Nginx-16a34a?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111827?style=for-the-badge&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-f97316?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-f59e0b?style=for-the-badge&logo=grafana&logoColor=111827)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Solana%20Hackathon-Top%204%20Finalist-f97316?style=for-the-badge" alt="Solana finalist" />
-  <img src="https://img.shields.io/badge/Fellowship-72%20%2F%203000%2B-dc2626?style=for-the-badge" alt="Fellowship" />
-</p>
-
----
-
-## Current Focus
-
-- designing scalable full-stack systems with strong backend foundations
-- building real-time infrastructure that feels fast under real traffic
-- improving smart contract safety and on-chain system reliability
-- integrating applied AI into useful, production-facing workflows
+### Web3 + AI Tooling
+![Solana](https://img.shields.io/badge/Solana-111827?style=for-the-badge&logo=solana&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-374151?style=for-the-badge&logo=solidity&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-111827?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
-## Core Stack
+## 🚀 Highlight Projects
+- **20.Poly** — live sports prediction market with real-time pricing + on-chain settlement  
+- **V(0)Draw** — real-time collaborative drawing platform  
+- **Kandid** — real-time collaboration features at scale  
+- **Kube Credential** — credential issuance & verification workflows  
+- **Link Bird** — automated LinkedIn outreach platform
 
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,python,cpp" alt="Application stack" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sunilkumarchavhan9&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunilkumarchavhan9&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,kubernetes,aws,git,linux" alt="Infrastructure stack" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,graphql,tailwind,figma" alt="Product and protocol stack" />
-</p>
-
-<p align="center">
-  <strong>Also building with:</strong> Solana, Rust, protocol architecture, and security-driven engineering practices.
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sunilkumarchavhan9" />
 </p>
 
 ---
 
-## GitHub Snapshot
+## 🤝 Reach me
+- Email: **chavhansunilkumar753@gmail.com**
+- LinkedIn: **sunil-kumar-chavhan-269195299**
+- X: **@FrostbytHitsuG**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunilkumarchavhan9&show_icons=true&theme=transparent&hide_border=true&title_color=0f766e&text_color=475569&icon_color=f59e0b&rank_icon=github" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilkumarchavhan9&layout=compact&theme=transparent&hide_border=true&title_color=0f766e&text_color=475569" height="170" alt="Top languages" />
+  <img src="https://komarev.com/ghpvc/?username=Sunilkumarchavhan9&style=flat-square&color=22c55e" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunilkumarchavhan9&bg_color=ffffff&color=0f766e&line=f59e0b&point=1f2937&area=true&hide_border=true" alt="Contribution graph" />
-</p>
-
----
-
-## Competitive Coding
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/soulreaper_sk?theme=light&font=Source%20Sans%20Pro&ext=contest" alt="LeetCode card" />
-</p>
-
----
-
-## Connect
-
-<p align="center">
-  <a href="https://twitter.com/frostbythitsug"><img src="https://img.shields.io/badge/X-111827?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://github.com/sunilkumarchavhan9"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://leetcode.com/soulreaper_sk"><img src="https://img.shields.io/badge/LeetCode-f59e0b?style=flat-square&logo=leetcode&logoColor=111827" alt="LeetCode" /></a>
-  <a href="https://www.linkedin.com/in/sunil-kumar-chavhan-269195299"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://p0lymathdevppf.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f766e?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-</p>
-
-<p align="center">
-  <strong>Build with intent. Ship with quality. Scale what matters.</strong>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,40:0f766e,100:f59e0b" alt="Footer banner" />
-</p>
-
